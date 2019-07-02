@@ -16,4 +16,7 @@ extract corresponding responses for the designated questions from train set
 # Seq2Seq_new.py
 run the model(includes train, predict, flasked api)
 
+# chatbot
+intel cluster script
+
 
